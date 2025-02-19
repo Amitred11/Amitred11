@@ -4,20 +4,20 @@
 - [Promotional Website](https://github.com/Amitred11/PromotionalWebsite)  
 
 🌱 **Currently learning:**  
-- Node.js, Python (for a YouTube downloader project)  
-- MongoDB Compass for database management  
+- Node.js, Python (for a YouTube downloader project), React, React Native  
+- MongoDB Compass for database management 
 
 💬 **Ask me about:**  
 - Web development  
-- ESP32 and Arduino projects  
-- Historical and genealogical research on Ishmael  
+- Mobile Development 
+- Historical and genealogical research on Osama Bin Laden 
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-green)](#)  
 
-⚡ **Fun fact:** I prefer dark mode and play in ghost mode in Tekken 6.  
+⚡ **Fun fact:** I prefer dark mode and play in ghost mode in Tekken 6.   
 
 ---
 

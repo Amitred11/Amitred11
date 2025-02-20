@@ -1,10 +1,3 @@
-# My Profile 🌟  
-🚀 Check out my interactive profile:  
-➡️ **[Click Here](https://amitred11.github.io/)**
-
-
-
-
 # Hi there! 👋 I'm [Amitred11]  
 
 🚀 **Full-Stack Developer | Historian | Tech Enthusiast**  

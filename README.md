@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/Amitred11">
-    <img src="https://raw.githubusercontent.com/Amitred11/main/profile-pic.png" width="150" height="150" />
-  </a>
-</p>
+## 🌟 My Profile
+[![Profile Preview](https://github.com/Amitred11.png)](https://amitred11.github.io/)
+
 
 
 # Hi there! 👋 I'm [Amitred11]  

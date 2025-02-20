@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Amitred11.png" width="150" height="150" style="border-radius: 50%;" />
+  <a href="https://github.com/Amitred11">
+    <img src="https://github.com/Amitred11.png" width="150" height="150" style="
+      border-radius: 50%;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+      transition: transform 0.3s ease-in-out;
+    " onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
 # Hi there! 👋 I'm [Amitred11]  
@@ -67,7 +73,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitred11&layout=compact&theme=dark&hide_border=true" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -81,8 +87,8 @@
 
 ## 🚀 Work in Progress  
 🔹 Improving skills in full-stack development  
-🔹 Working on **EventHub: A Unified System for Managing School and Community Events**  
-🔹 Exploring data products for **student time management**  
+🔹 Working on **Promotional Website for my Capstone**  
+🔹 Exploring a new programming language **React**
 
 ---
 

@@ -1,12 +1,9 @@
 <p align="center">
   <a href="https://github.com/Amitred11">
-    <img src="https://github.com/Amitred11.png" width="150" height="150" style="
-      border-radius: 50%;
-      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
-      transition: transform 0.3s ease-in-out;
-    " onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://raw.githubusercontent.com/Amitred11/main/profile-pic.png" width="150" height="150" />
   </a>
 </p>
+
 
 # Hi there! 👋 I'm [Amitred11]  
 

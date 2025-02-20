@@ -1,3 +1,8 @@
+# My Profile 🌟  
+![Profile Preview](https://amitred11.github.io/docs/profile-preview.png)  
+➡️ **[View Live Page](https://amitred11.github.io/)**
+
+
 # Hi there! 👋 I'm [Amitred11]  
 
 🚀 **Full-Stack Developer | Historian | Tech Enthusiast**  

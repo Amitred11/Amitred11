@@ -1,5 +1,5 @@
-# My Profile 🌟   
-➡️ **[View My Live Profile](https://amitred11.github.io/)**
+# My Profile 🌟  
+➡️ **[View My Profile on GitHub](https://github.com/Amitred11/Amitred11/blob/main/index.html)**
 
 # Hi there! 👋 I'm [Amitred11]  
 

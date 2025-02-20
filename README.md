@@ -1,5 +1,5 @@
 # My Profile 🌟  
-![Profile Preview](https://amitred11.github.io/profile-preview.png)
+![Profile Preview](https://amitred11.github.io/index.html)
 
 
 

@@ -10,7 +10,8 @@
 💬 **Ask me about:**  
 - Web development  
 - Mobile Development 
-- Historical and genealogical research on Osama Bin Laden 
+- Historical and genealogical research on Osama Bin Laden
+- Racism and Transphobia
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/amadore-iii-leoncio-d-011841328/)  

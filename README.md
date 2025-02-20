@@ -1,7 +1,5 @@
-# My Profile 🌟  
-![Profile Preview](https://amitred11.github.io/index.html)
-
-
+# My Profile 🌟   
+➡️ **[View My Live Profile](https://amitred11.github.io/)**
 
 # Hi there! 👋 I'm [Amitred11]  
 

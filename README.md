@@ -58,3 +58,34 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,react,mongodb,mysql,git,github" />  
 </p>  
 ---
+
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitred11&show_icons=true&theme=dark&hide_border=true" />  
+  <br />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitred11&layout=compact&theme=dark&hide_border=true" />  
+  <br />  
+  <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />  
+</p>  
+
+---  
+
+## 🏆 GitHub Trophies  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Amitred11&theme=darkhub&column=7" />  
+</p>  
+
+---  
+
+## 🚀 Work in Progress  
+- 📈 Improving **full-stack development** skills  
+- 🌎 Working on **Promotional Website for my Capstone**  
+- 🔥 Exploring a new programming language: **React**  
+- 🔒 Enhancing **API security and authentication**  
+
+---  
+
+## ☕ Support Me  
+If you like my work, consider leaving a ⭐ on my repositories! 😊  
+
+---

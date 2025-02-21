@@ -6,8 +6,7 @@
 
 ## 🔭 Currently Working On:  
 - [🌐 Promotional Website](https://github.com/Amitred11/PromotionalWebsite)  
-- 🎓 **EventHub:** A Unified System for Managing School and Community Events  
-- 📅 A **Study & Time Management App** to help students organize their schedules  
+- 📅 An **AI Assistant App** to help me.  
 - 🔥 Open-source contributions to web and mobile projects  
 
 ---  
@@ -24,7 +23,7 @@
 - 💻 Web & Mobile Development  
 - 📜 Historical and Genealogical Research  
 - 🔐 Basics of ...  
-- 🚨 Racism and Transphobia Awareness  
+- 🚨 Racism and Transphobia  
 - 🔌 ESP32 and Arduino Projects  
 - 🔗 API Development & Integration  
 
@@ -49,7 +48,7 @@
 - 🌑 I prefer **dark mode**  
 - 🎮 I play **Tekken 6** in ghost mode  
 - 📖 I enjoy **historical research** and deep dives into genealogy  
-- 🔥 I build **custom web APIs** for fun  
+- 🔥 I build **Websites** for fun  
 
 ---  
 
@@ -67,14 +66,12 @@
   <br />  
   <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />  
 </p>  
-
 ---  
 
 ## 🏆 GitHub Trophies  
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=Amitred11&theme=darkhub&column=7" />  
 </p>  
-
 ---  
 
 ## 🚀 Work in Progress  

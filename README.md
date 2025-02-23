@@ -53,9 +53,39 @@
 ---  
 
 ## 🛠 Tech Stack  
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,react,mongodb,mysql,git,github,java,c,cs,discord,firebase,flask,mysql,npm,visualstudio,nodejs,electron" width="100%" style="padding: 30px;" />
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=js" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=php" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" width="60"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=python" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=react" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=git" width="60"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=github" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=java" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=c" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=cs" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=discord" width="60"></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=firebase" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=flask" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=visualstudio" width="60"></td>
+      <td><img src="https://skillicons.dev/icons?i=electron" width="60"></td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 

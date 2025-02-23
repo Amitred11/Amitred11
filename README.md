@@ -61,22 +61,18 @@
       <td><img src="https://skillicons.dev/icons?i=js" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=php" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="70"></td>
-    </tr>
-    <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=python" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=react" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=mysql" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=git" width="70"></td>
-    </tr>
+     </tr>
     <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=github" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=java" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=c" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=cs" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=discord" width="70"></td>
-    </tr>
-    <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=firebase" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=flask" width="70"></td>
       <td><img src="https://skillicons.dev/icons?i=npm" width="70"></td>

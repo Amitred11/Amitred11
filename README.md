@@ -54,8 +54,9 @@
 
 ## 🛠 Tech Stack  
 <p align="center">  
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,react,mongodb,mysql,git,github,java,c,cs,discord,firebase,flask,mysql,npm,visualstudio,nodejs" />  
-</p>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,react,mongodb,mysql,git,github,java,c,cs,discord,firebase,flask,mysql,npm,visualstudio,nodejs,electron" width="600" style="padding: 10px;" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats  

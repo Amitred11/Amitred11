@@ -1,8 +1,10 @@
 <p align="center">
   <video autoplay loop muted playsinline width="250">
-    <source src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/ezgif-86daf7a9d71394.mp4" type="video/mp4">
+    <source src="https://amitred11.github.io/ezgif-86daf7a9d71394.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 </p>
+
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 
 🚀 **Full-Stack Developer | Historian | Tech Enthusiast**  

@@ -1,6 +1,10 @@
-![Profile Picture](https://github.com/Amitred11.png)  
-![GIF](https://media.giphy.com/media/example.gif)  
+<p align="center">
+  <img src="https://github.com/Amitred11.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/example.gif" alt="GIF">
+</p>
 
 # Hi there! 👋 I'm [Amitred11]  
 

@@ -1,6 +1,6 @@
 <p align="center">
   <video autoplay loop muted playsinline width="250">
-    <source src="https://amitred11.github.io/ezgif-86daf7a9d71394.mp4" type="video/mp4">
+    <source src="ezgif-86daf7a9d71394.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>

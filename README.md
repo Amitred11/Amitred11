@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/a7098d7a4b4566d0a60504daeecb5a10.gif" alt="GIF" width="250">
+  <video autoplay loop muted playsinline width="250">
+    <source src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/profile-animation.mp4" type="video/mp4">
+  </video>
 </p>
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 

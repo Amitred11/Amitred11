@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 
-🚀 **Full-Stack Developer <img src="malupiton.png" width="40" height="40"> | Historian | Tech Enthusiast**  
+<p align="center">🚀 **Full-Stack Developer | Historian | Tech Enthusiast**  </p>
 
 ---  
 

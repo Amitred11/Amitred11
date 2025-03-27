@@ -1,5 +1,5 @@
-![GIF Name](https://media.giphy.com/media/example.gif)
-
+![Profile Picture](https://github.com/Amitred11.png)  
+![GIF](https://media.giphy.com/media/example.gif)  
 
 
 # Hi there! 👋 I'm [Amitred11]  

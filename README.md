@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 
-<p align="center" style="font-weight:bold">🚀 Full-Stack Developer | Historian | Tech Enthusiast  </p>
+<p align="center" style="font-weight:bold"><b>🚀 Full-Stack Developer | Historian | Tech Enthusiast</b>  </p>
 
 ---  
 

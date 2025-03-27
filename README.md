@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/a7098d7a4b4566d0a60504daeecb5a10.gif" alt="GIF" width="250">
+  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/a7098d7a4b4566d0a60504daeecb5a10-ezgif.com-optimize.gif" alt="GIF" width="250">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>

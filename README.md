@@ -1,3 +1,7 @@
+![GIF Name](https://media.giphy.com/media/example.gif)
+
+
+
 # Hi there! 👋 I'm [Amitred11]  
 
 🚀 **Full-Stack Developer | Historian | Tech Enthusiast**  

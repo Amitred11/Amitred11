@@ -18,8 +18,7 @@
 ## 🌱 Currently Learning  
 - **Backend:** 🟢 Node.js, 🐍 Python  
 - **Frontend:** ⚛️ React, React Native  
-- **Database:** 🍃 MongoDB Compass  
-- **Other:** ☁️ Google Drive API, Google Picker API, RESTful APIs  
+- **Database:** 🍃 MongoDB Compass and Atlas  
 
 ---  
 

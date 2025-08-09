@@ -74,8 +74,9 @@
 ## 🏅 Certifications
 
 ### Aviatrix Certified Engineer (ACE)
-![Aviatrix Badge](blob.png)
-![Aviatrix Certificate](MultiCloudNetwork.newlogo20250809-33-703qqw.pdf)
+<img src="blob.png" alt="Aviatrix Badge" width="120">
+<br>
+<img src="MultiCloudNetwork.newlogo20250809-33-703qqw.png" alt="Aviatrix Certificate" width="500">
 
 ---
 

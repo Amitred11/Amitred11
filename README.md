@@ -75,8 +75,7 @@
 
 ### Aviatrix Certified Engineer (ACE)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/blob.png" alt="Aviatrix Badge" width="120">
-  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/MultiCloudNetwork.newlogo20250809-33-703qqw-1.png" alt="Aviatrix Certificate" width="500">
+  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/blob.png" alt="Aviatrix Badge" width="200">
 </p>
 
 ---

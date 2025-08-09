@@ -74,8 +74,10 @@
 ## 🏅 Certifications
 
 ### Aviatrix Certified Engineer (ACE)
-<img src="blob.png" alt="Aviatrix Badge" width="120">
-<img src="MultiCloudNetwork.newlogo20250809-33-703qqw-1.png" alt="Aviatrix Certificate" width="120">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/blob.png" alt="Aviatrix Badge" width="120">
+  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/MultiCloudNetwork.newlogo20250809-33-703qqw-1.png" alt="Aviatrix Certificate" width="120">
+</p>
 
 ---
 
@@ -102,4 +104,8 @@ If you like my work, consider leaving a ⭐ on my repositories! 😊
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amitred11&icon=2&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Amitred11&icon=2&color=1" alt="Visitor Count"/>
+  </a>
+</p>

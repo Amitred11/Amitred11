@@ -4,29 +4,18 @@
 
 <h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 
-<p align="center"><b>🚀 Full-Stack Developer | Tech Enthusiast | WOW</b></p>
-
 ---
 
 ## 🔭 Currently Working On
 - [🌐 Mobile App for Capstone] - *Showcasing my capstone project!*
-- 📅 **AI Assistant App** for personal productivity - *Helping users streamline their daily tasks.*
-- 🔥 Contributing to open-source web and mobile projects
+- Mobile App together with my friends...
 
 ---
 
 ## 🌱 Currently Learning
 - **Backend:** 🟢 Node.js, 🐍 Python ( *Deepening my understanding of server-side logic and API development* )
-- **Frontend:** ⚛️ React, React Native ( *Building dynamic and responsive user interfaces* )
+- **Frontend:** ⚛️ React Native ( *Building dynamic and responsive user interfaces* )
 - **Database:** 🍃 MongoDB Compass and Atlas ( *Mastering NoSQL database management* )
-
----
-
-## 💬 Ask Me About
-- 💻 Web & Mobile Development - *I can help you build your next project!*
-- 📜 Historical and Genealogical Research - *Let's explore our ancestry together!*
-- 🔐 Cybersecurity Basics - *Protecting your digital world.*
-- 🔗 API Development & Integration - *Connecting systems seamlessly.*
 
 ---
 
@@ -46,16 +35,15 @@
 ---
 
 ## ⚡ Fun Facts
-- 🌑 I prefer **dark mode** - *because it's easier on the eyes!*
+- 🌑 I prefer **dark mode** - *because light attract bugs*
 - 🎮 I play **Tekken 6** in ghost mode
-- 📖 I enjoy **historical research** and genealogy - *Uncovering the stories of the past.*
 - 🔥 I build **websites** for fun
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,python,php,powershell,react,nodejs,express,mongodb,mysql,firebase,git,github,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=,js,html,python,php,nodejs,express,mongodb,mysql,firebase,git,github&theme=dark" />
 </p>
 
 ---
@@ -88,14 +76,10 @@
 ---
 
 ## 🚀 Work in Progress
-- 📈 Enhancing **full-stack development** skills - *Focusing on scalability and performance.*
+- 📈 Enhancing **javascript** skills
 - 🌎 Developing a **Promotional Website for my Capstone**
-- 🔥 Learning **React and API Security** - *Securing web applications against modern threats.*
 
 ---
-
-## ☕ Support Me
-If you like my work, consider leaving a ⭐ on my repositories! 😊
 
 ### 🔝 Top Contributed Repo
 <p align="center">

@@ -66,12 +66,6 @@
 
 ---
 
-## 🚀 Work in Progress
-- 📈 Enhancing **javascript** skills
-- 🌎 Developing a **Promotional Website for my Capstone**
-
----
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Amitred11&limit=5&theme=dark&combine_all_yearly_contributions=true" />

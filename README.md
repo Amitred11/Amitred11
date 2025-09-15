@@ -59,15 +59,6 @@
 
 ---
 
-## 🏅 Certifications
-
-### Aviatrix Certified Engineer (ACE)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/blob.png" alt="Aviatrix Badge" width="200">
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amitred11&theme=darkhub&column=7" />

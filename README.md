@@ -24,10 +24,10 @@
 
 ### 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitred11&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitred11&layout=compact&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitred11&show_icons=true&theme=dark&hide_border=true&count_private=true&disable_animations=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitred11&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true" />

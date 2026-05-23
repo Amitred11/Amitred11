@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Amitred11 👋</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amitred11/Amitred11/master/f5f27448c036af645c27467c789ad759.gif" alt="GIF" width="750">
+</p>
+<h1 align="center">Hi there! 👋 I'm Amitred11</h1>
 <p align="center">
   <em>Passionate developer focused on building functional, user-centric mobile and web applications.</em>
 </p>
@@ -25,10 +27,6 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitred11&show_icons=true&theme=dark&hide_border=true&count_private=true&disable_animations=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitred11&layout=compact&theme=dark&hide_border=true&disable_animations=true" />
-</p>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Amitred11&theme=dark&hide_border=true" />
 </div>
@@ -36,13 +34,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amitred11&theme=darkhub&no-bg=true&column=6" />
 </div>
-
----
-
-### 🏆 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amitred11&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
 
 ---
 
